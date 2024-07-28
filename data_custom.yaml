@@ -1,0 +1,5 @@
+train: C:\Users\ASUS\ProjectTesting\PythonMLProjects\MyProject\dataset\train
+val: C:\Users\ASUS\ProjectTesting\PythonMLProjects\MyProject\dataset\val
+
+nc: 1
+names: ["Fire"]
